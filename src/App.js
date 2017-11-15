@@ -9,8 +9,7 @@ class App extends Component {
       count : 0,
       counter: 0,
       secs: 29,
-      status: false,
-      comment:""
+      status: false
     }
   }
   inc(){
